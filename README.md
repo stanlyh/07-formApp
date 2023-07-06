@@ -30,4 +30,4 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 ### Documentación de Formularios reactivos: `https://angular.io/guide/reactive-forms`
 
 
-Video 248 Validator functions
+Video 252 Validadores asincronos
